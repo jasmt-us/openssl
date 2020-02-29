@@ -12,6 +12,7 @@
 /out.*
 /tmp.*
 /configdata.pm
+/build
 
 # *all* Makefiles
 Makefile
